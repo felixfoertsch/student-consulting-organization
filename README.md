@@ -1,4 +1,4 @@
-# Bachelor Thesis by Felix Förtsch
+# Bachelor's Thesis by Felix Förtsch
 
 ## About
 - **Topic**: Student Consulting Organizations - A Domain Ontology
